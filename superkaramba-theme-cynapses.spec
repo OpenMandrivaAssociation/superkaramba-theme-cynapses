@@ -2,7 +2,7 @@
 %define theme_name      cynapses
 %define name            %{base_name}-%{theme_name}
 %define version         2.0
-%define release         1mdk
+%define release         %mkrel 1
 
 Name:	 %{name}
 Version: %{version}
