@@ -56,3 +56,35 @@ fi
 
 
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 2.0-6mdv2010.0
++ Revision: 434189
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 2.0-5mdv2009.0
++ Revision: 261238
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tvignaud@mandriva.com> 2.0-4mdv2009.0
++ Revision: 253751
+- rebuild
+
+* Sun Mar 02 2008 Nicolas Lécureuil <neoclust@mandriva.org> 2.0-2mdv2008.1
++ Revision: 177557
+- [BUGFIX] Fix uninstall ( thanks misc) (Bug #22642)
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Mon Dec 17 2007 Thierry Vignaud <tvignaud@mandriva.com> 2.0-1mdv2008.1
++ Revision: 128068
+- kill re-definition of %%buildroot on Pixel's request
+- use %%mkrel
+- import superkaramba-theme-cynapses
+
+
+* Sun Mar 06 2005 Sebastien Savarin <plouf@mandriva.org> 2.0-1mdk
+-First Mandriva Linux
+
